@@ -1,5 +1,6 @@
 # 0x01. React intro
-## Learning Objectives
+
+Learning outcomes:
 
 - How to create a basic Javascript application using React
 - How to use the package create-react-app to start developing quickly with React
